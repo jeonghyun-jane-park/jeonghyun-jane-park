@@ -10,7 +10,7 @@ I want to become an engineer who **works closely with people, listens carefully,
 
 ## Selected Engineering & Research
 
-### 🛞 [Pneumatic Morphing Wheel](https://github.com/jhp2046/pneumatic-morphing-wheel)
+### [Pneumatic Morphing Wheel](https://github.com/jhp2046/pneumatic-morphing-wheel)
 **Soft Robotics Laboratory · Sungkyunkwan University**
 
 Design exploration of a pneumatically actuated variable-compliance wheel for adaptive mobility. I investigated controlled deformation, spring-assisted structural support, shape recovery, drivetrain integration, and pneumatic routing.
@@ -21,7 +21,7 @@ Design exploration of a pneumatically actuated variable-compliance wheel for ada
 
 ---
 
-### 🪐 [Variable-Compliance Rover Mobility](https://github.com/jhp2046/variable-compliance-rover-mobility)
+### [Variable-Compliance Rover Mobility](https://github.com/jhp2046/variable-compliance-rover-mobility)
 **Research project · Karlsruhe Institute of Technology**
 
 Developed a reduced-order terramechanics and route-optimization framework to study when changing wheel compliance can improve rover mobility across heterogeneous terrain.
