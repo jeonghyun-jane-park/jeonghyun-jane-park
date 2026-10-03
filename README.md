@@ -15,6 +15,8 @@ I want to become an engineer who **works closely with people, listens carefully,
 
 Design exploration of a pneumatically actuated variable-compliance wheel for adaptive mobility. I investigated controlled deformation, spring-assisted structural support, shape recovery, drivetrain integration, and pneumatic routing.
 
+[**Design report →**](https://github.com/jhp2046/pneumatic-morphing-wheel/blob/main/report/Pneumatic_Morphing_Wheel_Design_Exploration.pdf)
+
 `Soft Robotics` `Mechanical Design` `CAD` `Adaptive Structures`
 
 ---
@@ -23,6 +25,8 @@ Design exploration of a pneumatically actuated variable-compliance wheel for ada
 **Research project · Karlsruhe Institute of Technology**
 
 Developed a reduced-order terramechanics and route-optimization framework to study when changing wheel compliance can improve rover mobility across heterogeneous terrain.
+
+[**Research report →**](https://github.com/jhp2046/variable-compliance-rover-mobility/blob/main/report/complete_research_report.pdf) · [**Technical formulation →**](https://github.com/jhp2046/variable-compliance-rover-mobility/blob/main/report/technical_formulation.pdf)
 
 `Python` `Optimization` `Terramechanics` `Route Planning`
 
