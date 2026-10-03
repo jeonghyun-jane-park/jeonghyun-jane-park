@@ -1,17 +1,8 @@
-# Jeonghyun "Jane" Park
+# Hi, I'm Jeonghyun "Jane" Park
 
-**Mechanical & Aerospace Engineering, Princeton University**  
-Minor in **Robotics and Intelligent Systems**
+I'm a **Mechanical & Aerospace Engineering student at Princeton University** pursuing a minor in **Robotics and Intelligent Systems**. My interests center on **human-centered mechanical design, robotics, adaptive mobility, assistive technology, and engineering systems that interact closely with people and physical environments**.
 
-[LinkedIn](https://www.linkedin.com/in/jane-jeonghyun-park) · [Selected Writing](https://github.com/jhp2046/writing)
-
----
-
-## About
-
-I am interested in **human-centered mechanical design, robotics, adaptive mobility, assistive technology, and physical systems that respond to people and changing environments**.
-
-My approach to engineering is simple: understand the person or environment first, translate that need into engineering requirements, build or model a solution, test it, and refine it. My path into engineering began through disability advocacy and accessible design, and that perspective continues to shape how I think about mechanical systems, mobility, and technology.
+My path into engineering began with disability advocacy and accessible design. That perspective still shapes how I approach technical work: understand the person or environment first, translate the need into engineering requirements, build or model a solution, test it, and refine it.
 
 ---
 
