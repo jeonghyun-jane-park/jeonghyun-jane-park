@@ -1,8 +1,12 @@
-# Hi, I'm Jeonghyun "Jane" Park
+# Hi, I'm Jeonghyun “Jane” Park!
 
-I'm a **Mechanical & Aerospace Engineering student at Princeton University** pursuing a minor in **Robotics and Intelligent Systems**. My interests center on **human-centered mechanical design, robotics, adaptive mobility, assistive technology, and engineering systems that interact closely with people and physical environments**.
+I'm studying **Mechanical and Aerospace Engineering at Princeton University**, with a minor in **Robotics and Intelligent Systems**. I'm interested in **human-centered design and engineering**—understanding people's needs and turning those insights into practical devices and systems. I enjoy following an idea from a sketch or model to a working prototype, then learning from what happens when it's tested.
 
-My path into engineering began with disability advocacy and accessible design. That perspective still shapes how I approach technical work: understand the person or environment first, translate the need into engineering requirements, build or model a solution, test it, and refine it.
+My interest in engineering grew out of **disability advocacy** and helping develop an **inclusive playground** in my community. That experience showed me how design decisions can shape someone's ability to participate, move independently, and feel included. It continues to inform my work in **assistive technology, soft robotics, and adaptive mobility**, while my curiosity is taking me further into controls, simulation, and aerospace applications. I like finding connections between these areas, including how a wheel developed for wheelchair mobility might help a rover navigate unfamiliar terrain.
+
+Having grown up in **South Korea, Poland, and the United States**, I enjoy stepping into unfamiliar environments, meeting people, and learning how they experience the world. I love traveling and seeking opportunities to **study and work in a new environment**. Those experiences encourage me to question my assumptions and learn from different ways of approaching a problem.
+
+I want to become an engineer who **works closely with people, listens carefully, and builds thoughtfully**—bringing both technical rigor and an understanding of everyday needs to the problems I take on.
 
 ---
 
