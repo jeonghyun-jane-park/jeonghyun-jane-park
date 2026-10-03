@@ -63,7 +63,7 @@ Built a nonlinear three-degree-of-freedom rigid-body model of a laboratory gyros
 
 Used Thermo-Calc and CALPHAD-based equilibrium modeling to study phase stability, heat treatment, precipitation strengthening, oxidation-performance tradeoffs, and composition selection in a simplified Ni-Cr-Al superalloy system.
 
-[Repository](https://github.com/jhp2046/thermocalc-superalloy-design)
+[Repository](https://github.com/jhp2046/thermocalc-superalloy-design) · [Technical report](https://github.com/jhp2046/thermocalc-superalloy-design/blob/main/ThermoCalc_Report.pdf)
 
 `Thermo-Calc` `CALPHAD` `Materials Design` `Optimization` `LaTeX`
 
