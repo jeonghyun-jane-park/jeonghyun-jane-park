@@ -1,32 +1,9 @@
 # Hi, I'm Jeonghyun “Jane” Park!
 
-I'm studying Mechanical and Aerospace Engineering at Princeton University, with a minor in Robotics and Intelligent Systems. I'm especially interested in human-centered design and engineering—developing technologies that respond to real human needs and improve how people interact with the physical world.
+I'm studying Mechanical and Aerospace Engineering at Princeton University, with a minor in Robotics and Intelligent Systems. I'm interested in human-centered design and engineering—understanding people's needs and turning those insights into practical devices and systems.
 
-My interest in engineering began through disability advocacy and my involvement in developing an inclusive playground in my community. Since then, I've explored how mechanical design, robotics, biomechanics, and simulation can be used to improve mobility, accessibility, and technologies designed around individual needs.
+My interest in engineering grew out of disability advocacy and helping develop an inclusive playground in my community. That experience showed me how design decisions can shape someone's ability to participate, move independently, and feel included. It continues to guide my interests in assistive technology, soft robotics, and adaptive mobility.
 
-## Research & Engineering Experience
+Having grown up in South Korea, Poland, and the United States, I enjoy stepping into unfamiliar environments, meeting people, and learning how they experience the world. I love traveling and seeking opportunities to study and work abroad. Those experiences encourage me to question my assumptions and approach engineering with curiosity about the people who will use what I build.
 
-### Adaptive Mobility — Karlsruhe Institute of Technology
-Extending pneumatic morphing-wheel research to terrain exploration through wheel–terrain simulation and optimization of routes and wheel configurations.
-
-### Soft Robotics — Sungkyunkwan University
-Developing an origami-inspired pneumatic wheel for wheelchair mobility, with a focus on adjustable compliance and limiting diameter changes during transitions.
-
-### Assistive Technology — Humanos 3D
-Designing and prototyping custom assistive devices through CAD, 3D printing, and direct user feedback in Medellín, Colombia.
-
-### Prosthetic-Hand Control — Princeton Bionics
-Contributing Python-based signal processing and machine learning to a prosthetic-hand project.
-
-## Leadership & Community
-
-- **Co-founder & Marketing Officer, UPPRF:** Supporting inclusive recreation through community outreach, fundraising, and collaboration.
-- **Global Ambassador, Princeton Office of International Programs:** Mentoring engineering students interested in study abroad and international internships.
-
-## Technical Interests
-
-Assistive technology · Soft robotics · Adaptive mobility · Mechanical design · Control systems
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/jane-jeonghyun-park/) · [Email](mailto:jeonghyun.park@princeton.edu)
+I want to become an engineer who works closely with people, listens carefully, and creates things that make a meaningful difference in their everyday lives.
