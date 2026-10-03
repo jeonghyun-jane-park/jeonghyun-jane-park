@@ -47,6 +47,17 @@ Designed and prototyped custom 3D-printed assistive devices around individual us
 
 ## Selected Technical Projects
 
+### Princeton University — Origami Engineering
+**Collapsible Kresling Heel**
+
+Designed and prototyped an origami-inspired adjustable heel using stacked Kresling modules, combining MATLAB geometric modeling, Fusion 360 CAD, 3D printing, and physical mechanism testing.
+
+[Repository](https://github.com/jhp2046/kresling-collapsible-heel) · [Project poster](https://github.com/jhp2046/kresling-collapsible-heel/blob/main/poster/collapsible_kresling_heel_poster.pdf)
+
+`Origami Engineering` `MATLAB` `Fusion 360` `3D Printing` `Mechanical Design`
+
+---
+
 ### University of Melbourne — Engineering Dynamics
 **Gyroscope Dynamics Simulation & Experimental Validation**
 
