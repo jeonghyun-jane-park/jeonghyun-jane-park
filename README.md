@@ -26,7 +26,8 @@ Design exploration of a pneumatically actuated variable-compliance wheel for ada
 
 Developed a reduced-order terramechanics and route-optimization framework to study when changing wheel compliance can improve rover mobility across heterogeneous terrain.
 
-[**📄Research report →**](https://github.com/jhp2046/variable-compliance-rover-mobility/blob/main/report/complete_research_report.pdf) · [**📄Technical formulation →**](https://github.com/jhp2046/variable-compliance-rover-mobility/blob/main/report/technical_formulation.pdf)
+[**📄Research report →**](https://github.com/jhp2046/variable-compliance-rover-mobility/blob/main/report/complete_research_report.pdf)  
+[**📄Technical formulation →**](https://github.com/jhp2046/variable-compliance-rover-mobility/blob/main/report/technical_formulation.pdf)
 
 `Python` `Optimization` `Terramechanics` `Route Planning`
 
