@@ -1,94 +1,104 @@
-# Hi, I'm Jeonghyun "Jane" Park
+<div align="center">
 
-I'm a **Mechanical & Aerospace Engineering student at Princeton University** pursuing a minor in **Robotics and Intelligent Systems**. My interests center on **human-centered mechanical design, robotics, adaptive mobility, assistive technology, and engineering systems that interact closely with people and physical environments**.
+# Jeonghyun "Jane" Park
 
-My path into engineering began with disability advocacy and accessible design. That perspective still shapes how I approach technical work: understand the person or environment first, translate the need into engineering requirements, build or model a solution, test it, and refine it.
+**Mechanical & Aerospace Engineering · Princeton University**  
+Minor in **Robotics and Intelligent Systems**
+
+Human-centered mechanical design · Robotics · Adaptive mobility · Assistive technology
+
+[LinkedIn](https://www.linkedin.com/in/jane-jeonghyun-park) · [Writing](https://github.com/jhp2046/writing)
+
+</div>
 
 ---
+
+I design and study **mechanical systems that adapt to people, tasks, and changing environments**. My work spans physical prototyping, CAD, dynamics, controls, optimization, materials, and technical research.
+
+My path into engineering began with **disability advocacy and accessible design**, which still shapes how I approach technical problems: understand the user or environment, translate the need into engineering requirements, build or model a solution, test it, and refine it.
+
+> **Current focus:** robotics, biomechanics, mobility, adaptive structures, and human-centered mechanical systems.
 
 ## Featured Engineering & Research
 
-### [Assistive Device Design & Materials Research](https://github.com/jhp2046/humanos3d-assistive-design)
-**Humanos 3D · Medellín, Colombia**
+| Project | Focus | Project links |
+|---|---|---|
+| **[Assistive Device Design & Materials Research](https://github.com/jhp2046/humanos3d-assistive-design)**  <br> *Humanos 3D · Medellín, Colombia* | Custom 3D-printed assistive devices developed around individual user needs, plus sustainable FFF materials research for low-volume assistive technology. | [Knife-holder design →](https://github.com/jhp2046/humanos3d-assistive-design/tree/main/design) <br> [Materials research →](https://github.com/jhp2046/humanos3d-assistive-design/tree/main/materials-research) |
+| **[Pneumatic Morphing Wheel](https://github.com/jhp2046/pneumatic-morphing-wheel)**  <br> *Soft Robotics Laboratory · Sungkyunkwan University* | Variable-compliance wheel design exploring controlled deformation, structural support, shape recovery, drivetrain integration, and pneumatic routing. | [Design report →](https://github.com/jhp2046/pneumatic-morphing-wheel/blob/main/report/Pneumatic_Morphing_Wheel_Design_Exploration.pdf) |
+| **[Variable-Compliance Rover Mobility](https://github.com/jhp2046/variable-compliance-rover-mobility)**  <br> *Karlsruhe Institute of Technology* | Reduced-order terramechanics and route optimization to investigate when adaptive wheel compliance can improve rover mobility across heterogeneous terrain. | [Research report →](https://github.com/jhp2046/variable-compliance-rover-mobility/blob/main/report/complete_research_report.pdf) <br> [Technical formulation →](https://github.com/jhp2046/variable-compliance-rover-mobility/blob/main/report/technical_formulation.pdf) |
+| **[Gyroscope Dynamics Simulation](https://github.com/jhp2046/gyroscope-dynamics-simulation)**  <br> *University of Melbourne · Engineering Dynamics* | Nonlinear rigid-body dynamics model in MATLAB with numerical integration, sensor-frame reconstruction, and comparison against experiment. | [Technical report →](https://github.com/jhp2046/gyroscope-dynamics-simulation/blob/main/report/gyroscope_dynamics_report.pdf) |
+| **[Ni-Cr-Al Superalloy Design](https://github.com/jhp2046/thermocalc-superalloy-design)**  <br> *University of Melbourne · Materials Engineering* | CALPHAD-based study of phase stability, heat treatment, precipitation strengthening, density, and composition selection using Thermo-Calc. | [Repository →](https://github.com/jhp2046/thermocalc-superalloy-design) |
 
-Designed and prototyped custom 3D-printed assistive devices around individual user needs, including an adaptive knife-holder system, while also conducting materials research on sustainable FFF polymers for low-volume assistive technology.
+## What I Like Working On
 
-[**View adaptive knife-holder design →**](https://github.com/jhp2046/humanos3d-assistive-design/tree/main/design) · [**View materials research →**](https://github.com/jhp2046/humanos3d-assistive-design/tree/main/materials-research)
+<table>
+<tr>
+<td width="25%" valign="top">
 
-`Human-Centered Design` `Assistive Technology` `Fusion 360` `3D Printing` `Materials Research`
+**Human-Centered Design**
 
----
+Assistive devices  
+Accessibility  
+User-centered prototyping  
+Biomechanics
 
-### [Pneumatic Morphing Wheel](https://github.com/jhp2046/pneumatic-morphing-wheel)
-**Soft Robotics Laboratory · Sungkyunkwan University**
+</td>
+<td width="25%" valign="top">
 
-Explored a pneumatically actuated variable-compliance wheel for adaptive mobility, focusing on controlled deformation, spring-assisted structural support, shape recovery, drivetrain integration, and pneumatic routing.
+**Robotics & Controls**
 
-[**Design report →**](https://github.com/jhp2046/pneumatic-morphing-wheel/blob/main/report/Pneumatic_Morphing_Wheel_Design_Exploration.pdf)
+Motion planning  
+Feedback control  
+System identification  
+Dynamic modeling
 
-`Soft Robotics` `Mechanical Design` `CAD` `Adaptive Structures`
+</td>
+<td width="25%" valign="top">
 
----
+**Mechanical Systems**
 
-### [Variable-Compliance Rover Mobility](https://github.com/jhp2046/variable-compliance-rover-mobility)
-**Research project · Karlsruhe Institute of Technology**
+Adaptive structures  
+Origami mechanisms  
+CAD & fabrication  
+Experimental dynamics
 
-Developed a reduced-order terramechanics and route-optimization framework to investigate when changing wheel compliance can improve rover mobility across heterogeneous terrain.
+</td>
+<td width="25%" valign="top">
 
-[**Research report →**](https://github.com/jhp2046/variable-compliance-rover-mobility/blob/main/report/complete_research_report.pdf) · [**Technical formulation →**](https://github.com/jhp2046/variable-compliance-rover-mobility/blob/main/report/technical_formulation.pdf)
+**Aerospace & Mobility**
 
-`Python` `Optimization` `Terramechanics` `Route Planning`
+Rover mobility  
+Flight dynamics  
+Terramechanics  
+Lightweight systems
 
----
+</td>
+</tr>
+</table>
 
-### [Gyroscope Dynamics Simulation & Experimental Validation](https://github.com/jhp2046/gyroscope-dynamics-simulation)
-**University of Melbourne · Engineering Dynamics**
+## Writing
 
-Built a nonlinear three-degree-of-freedom rigid-body model of a laboratory gyroscope in MATLAB, integrated the equations numerically, reconstructed sensor-frame motion, and compared simulation behavior with experiment.
+I also write about **disability justice, accessibility, bioethics, philosophy of science, family, and personal experience**.
 
-[**Technical report →**](https://github.com/jhp2046/gyroscope-dynamics-simulation/blob/main/report/gyroscope_dynamics_report.pdf)
-
-`MATLAB` `Rigid-Body Dynamics` `Newton-Euler` `ODE45` `Model Validation`
-
----
-
-### [Computational Design of a Ni-Cr-Al Superalloy](https://github.com/jhp2046/thermocalc-superalloy-design)
-**University of Melbourne · Materials Engineering**
-
-Used Thermo-Calc and CALPHAD-based equilibrium modeling to study phase stability, heat treatment, precipitation strengthening, oxidation-performance tradeoffs, and composition selection in a simplified Ni-Cr-Al superalloy system.
-
-`Thermo-Calc` `CALPHAD` `Materials Design` `Optimization` `LaTeX`
-
----
-
-## Writing, Disability & Accessibility
-
-Engineering is only one way I explore human-centered problems. I also write about **disability justice, accessibility, bioethics, philosophy of science, family, and personal experience**.
-
-My writing portfolio is organized into:
-- **Philosophy & Ethics**
-- **Disability Justice & Accessibility**
-- **Personal Essays**
+The writing portfolio is organized into **Philosophy & Ethics**, **Disability Justice & Accessibility**, and **Personal Essays**.
 
 [**Browse selected writing →**](https://github.com/jhp2046/writing)
 
----
-
 ## Technical Toolbox
 
-**Programming & Analysis**  
+**Programming & analysis**  
 `Python` · `MATLAB / Simulink` · `C / C++`
 
-**Mechanical Design & Fabrication**  
+**Mechanical design & fabrication**  
 `Creo` · `Fusion 360` · `NX` · `AutoCAD` · `3D Printing` · `Mechanical Prototyping`
 
-**Modeling & Research**  
+**Modeling & research**  
 `Controls` · `Optimization` · `Rigid-Body Dynamics` · `Terramechanics` · `Thermo-Calc / CALPHAD` · `LaTeX`
 
 ---
 
-## Current Interests
+<div align="center">
 
-I'm especially interested in work at the intersection of **robotics, biomechanics, mobility, adaptive structures, and assistive technology**—particularly systems that adapt to people or environments rather than expecting people to adapt to the technology.
+**Engineering that adapts to people and environments.**
 
-[LinkedIn](https://www.linkedin.com/in/jane-jeonghyun-park)
+</div>
